@@ -28,16 +28,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-📈 **[GitHub Contributions Graph](https://github.com/ashutosh00710/github-readme-activity-graph)**
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseeb-shaikh-281b59320/)
@@ -74,6 +64,17 @@ Here are some ideas to get you started:
 - 🔧 Tech Stack: React, Node.js, MongoDB
 
 ➡️ **Check out more projects [here](https://github.com/yourusername?tab=repositories)**
+
+---
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+📈 **[GitHub Contributions Graph](https://github.com/ashutosh00710/github-readme-activity-graph)**
 
 ---
 -->
