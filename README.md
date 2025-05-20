@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Haseeb 👋
+## Hi there, I'm Haseeb 👋
 
 🚀 **Master's Student in Data Science | Trying out ML Tools & Algorithms | Full Stack Enthusiast**
 
