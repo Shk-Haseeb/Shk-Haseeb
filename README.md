@@ -19,9 +19,13 @@
 ## 🚀 Skills & Technologies
 
 🔹 **Programming**: Python, JavaScript, SQL  
+
 🔹 **Web Development**: React, Node.js, GraphQL, Typescript
+
 🔹 **Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch  
+
 🔹 **Databases**: PostgreSQL, MongoDB
+
 🔹 **DevOps & Deployment**: Docker, Kubernetes, Git
 
 ---
