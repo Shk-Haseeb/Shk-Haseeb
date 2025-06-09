@@ -18,7 +18,7 @@
 
 ## 🚀 Skills & Technologies
 
-🔹 **Programming**: Python, JavaScript, SQL  
+🔹 **Programming**: Python, JavaScript, R, SQL, HTML  
 
 🔹 **Web Development**: React, Node.js, GraphQL, Typescript
 
