@@ -22,7 +22,7 @@
 
 🔹 **Web Development**: React, Node.js, GraphQL, Typescript
 
-🔹 **Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch  
+🔹 **Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau 
 
 🔹 **Databases**: PostgreSQL, MongoDB
 
