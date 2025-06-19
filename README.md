@@ -1,6 +1,6 @@
 ## Hi there, I'm Haseeb 👋
 
-🚀 **Master's Student in Data Science | Trying out ML Tools & Algorithms | Full Stack Enthusiast**
+🚀 **Master's Student in Data Science | University of Helsinki**
 
 ---
 
