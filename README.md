@@ -5,14 +5,12 @@
 ---
 
 ### 🔍 About Me  
-I'm a data-driven problem solver passionate about building intelligent systems and impactful software. Currently pursuing my Master's in Data Science, I blend **machine learning**, **full stack development**, and **data visualization** to create end-to-end solutions.
+I am a data-driven problem solver passionate about building intelligent systems and impactful software. Currently pursuing my Master's in Data Science, I blend **machine learning**, **full stack development**, and **data visualization** to create end-to-end solutions.
 
-- 🧠 Exploring **Machine Learning, Deep Learning, and NLP**
-- 🌐 Building **Interactive Web Apps** with React & Node.js  
-- 📊 Analyzing data using **Python, SQL, and Big Data tools**
-- 🚀 Enthusiastic about **AI applications and scalable tech**
-
-Let’s connect and collaborate!
+- Exploring **Machine Learning, Deep Learning, and NLP**
+- Building **Interactive Web Apps** with React & Node.js  
+- Analyzing data using **Python, SQL, and Big Data tools**
+- Enthusiastic about **AI applications and scalable tech**
 
 ---
 
