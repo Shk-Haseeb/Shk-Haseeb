@@ -1,9 +1,5 @@
 ## HELLO!
 
-🎓 **MSc in Data Science | University of Helsinki**  
-
----
-
 ### About Me  
 I am a data-driven problem solver passionate about building intelligent systems and impactful software. Currently pursuing my Master's in Data Science, I blend **machine learning**, **full stack development**, and **data visualization** to create end-to-end solutions.
 
