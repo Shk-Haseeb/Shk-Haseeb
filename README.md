@@ -15,7 +15,7 @@ I am a data-driven problem solver passionate about building intelligent systems 
 
 **Languages**: Python, JavaScript, R, SQL, HTML  
 **Web Development**: React, Node.js, GraphQL, TypeScript  
-**Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Jira 
+**Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Jira <br >
 **Databases**: PostgreSQL, MongoDB  
 **DevOps & Tools**: Docker, Kubernetes, Git  
 
