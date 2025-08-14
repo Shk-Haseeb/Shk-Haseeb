@@ -1,17 +1,13 @@
 ## HELLO!
 
 ### About Me  
-I am a data-driven problem solver passionate about building intelligent systems and impactful software. Currently pursuing my Master's in Data Science, I blend **machine learning**, **full stack development**, and **data visualization** to create end-to-end solutions.
 
-- Exploring **Machine Learning, Deep Learning, and NLP**
-- Building **Interactive Web Apps** with React & Node.js  
-- Analyzing data using **Python, SQL, and Big Data tools**
-- Enthusiastic about **AI applications and scalable tech**
+I am a Master’s student in Data Science who loves working with data to solve real-world problems. I enjoy combining machine learning, web development, and data visualization to build projects from start to finish. Right now, I am exploring Transformers, deep learning, and NLP through my coursework. Outside of classes, I enjoy sports and hiking, and I am also working on a few personal projects.
 
 #### Take a look at my LinkedIn for a quick overview of my work and academic background!
 ---
 
-### Skills & Technologies
+### Skills & Tools
 
 **Languages**: Python, JavaScript, R, SQL, HTML  
 **Web Development**: React, Node.js, GraphQL, TypeScript  
