@@ -10,7 +10,7 @@ I am a Master’s student in Data Science who loves working with data to solve r
 ### Skills & Tools
 
 **Languages**: Python, JavaScript, R, SQL, HTML  
-**Web Development**: React, Node.js, GraphQL, TypeScript  
+**Web Development**: React, Node.js, TypeScript  
 **Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Jira <br >
 **Databases**: PostgreSQL, MongoDB  
 **DevOps & Tools**: Docker, Kubernetes, Git  
