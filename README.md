@@ -2,7 +2,7 @@
 
 ### About Me  
 
-I am a Master’s student in Data Science who loves working with data to solve real-world problems. I enjoy combining machine learning, web development, and data visualization to build projects from start to finish. Right now, I am exploring Transformers, Deep Learning, and NLP through my academic coursework. Outside of classes, I enjoy sports and hiking, and I am also working on a few personal projects.
+I am a Master’s student in Data Science who loves working with data to solve real-world problems. I enjoy combining machine learning, web development, and data visualization to build projects from start to finish. Right now, I am exploring Software Architecture and Cloud Development through my academic coursework. Outside of classes, I enjoy sports and hiking, and I am also working on a few personal projects.
 
 #### Take a look at my LinkedIn for a quick overview of my work and academic background!
 ---
