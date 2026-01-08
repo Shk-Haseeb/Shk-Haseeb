@@ -20,4 +20,3 @@ I am a Master’s student in Data Science who loves working with data to solve r
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseeb-shaikh-281b59320/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://instagram.com/shk_scoop)
